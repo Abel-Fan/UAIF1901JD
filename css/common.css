@@ -1,0 +1,24 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	font-style: normal;
+}
+a{
+	text-decoration: none;
+}
+@font-face {
+  font-family: 'iconfont';  /* project id 974027 */
+  src: url('//at.alicdn.com/t/font_974027_gl67kjz6ku.eot');
+  src: url('//at.alicdn.com/t/font_974027_gl67kjz6ku.eot?#iefix') format('embedded-opentype'),
+  url('//at.alicdn.com/t/font_974027_gl67kjz6ku.woff2') format('woff2'),
+  url('//at.alicdn.com/t/font_974027_gl67kjz6ku.woff') format('woff'),
+  url('//at.alicdn.com/t/font_974027_gl67kjz6ku.ttf') format('truetype'),
+  url('//at.alicdn.com/t/font_974027_gl67kjz6ku.svg#iconfont') format('svg');
+}
+.iconfont{
+	font-family: "iconfont";
+}
+body{
+	background: #f0f3ef;
+}
